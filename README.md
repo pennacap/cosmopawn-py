@@ -1,4 +1,4 @@
-# CosmoPawn-Py : An API wrapper for [CosmoPawn](https://github.com/hczhu/CosmoPawn) in Python
+# CosmoPawn-Py : An API wrapper for [CosmoPawn](https://github.com/pennacap/cosmo-pawn) in Python
 ## Installation
 ```sh
 pip install cosmopawn
